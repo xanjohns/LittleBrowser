@@ -11,3 +11,7 @@ C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj
 C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.exe
 C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.xml
 C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.pdb
+C:\Users\Shawn\Desktop\Visual Studio\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\bin\Debug\LittleBrowser.exe.config
+C:\Users\Shawn\Desktop\Visual Studio\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.exe
+C:\Users\Shawn\Desktop\Visual Studio\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.xml
+C:\Users\Shawn\Desktop\Visual Studio\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.pdb
