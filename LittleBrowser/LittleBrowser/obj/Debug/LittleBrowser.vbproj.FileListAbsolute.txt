@@ -1,2 +1,13 @@
 C:\Users\xanjohns\AppData\Local\Temporary Projects\LittleBrowser\bin\Debug\LittleBrowser.exe.config
 C:\Users\xanjohns\Desktop\SoftDev\LittleBrowser\LittleBrowser\bin\Debug\LittleBrowser.exe.config
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\bin\Debug\LittleBrowser.exe.config
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\bin\Debug\LittleBrowser.exe
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\bin\Debug\LittleBrowser.pdb
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\bin\Debug\LittleBrowser.xml
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.vbprojResolveAssemblyReference.cache
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.Form1.resources
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.Resources.resources
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.vbproj.GenerateResource.Cache
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.exe
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.xml
+C:\Users\xanjohns\Documents\GitHub\LittleBrowser\LittleBrowser\LittleBrowser\obj\Debug\LittleBrowser.pdb
