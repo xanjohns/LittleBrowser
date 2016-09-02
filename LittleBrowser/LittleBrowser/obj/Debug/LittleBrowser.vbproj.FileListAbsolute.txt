@@ -1,0 +1,2 @@
+C:\Users\xanjohns\AppData\Local\Temporary Projects\LittleBrowser\bin\Debug\LittleBrowser.exe.config
+C:\Users\xanjohns\Desktop\SoftDev\LittleBrowser\LittleBrowser\bin\Debug\LittleBrowser.exe.config
